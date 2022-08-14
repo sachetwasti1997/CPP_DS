@@ -1,0 +1,3 @@
+/home/sachet/CLionProjects/data_structures/cmake-build-debug/CMakeFiles/data_structures.dir
+/home/sachet/CLionProjects/data_structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sachet/CLionProjects/data_structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
