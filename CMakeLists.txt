@@ -8,6 +8,10 @@ find_package(SDL2 REQUIRED SDL2)
 add_executable(data_structures
         depth_first_search/nested_list_weight_sum.cpp
         depth_first_search/find_leaves_bn_tree.cpp
+        depth_first_search/island_perimeter.cpp
+        depth_first_search/island_perimeter_accep.cpp
+        recursion/two_power.cpp
+        recursion/reverse_string.cpp
         pairs/ppair.cpp
         vectors/vvectors.cpp
         strings/valid_anagrams.cpp
@@ -30,6 +34,12 @@ add_executable(data_structures
         trees/unq_bin_sch_trr.cpp
         trees/create_n_bst.cpp
         trees/sum_left.cpp
+        trees/closest_binary_sch_tree_value.cpp
+        trees/TreeNode.h
+        trees/bin_upside_down.cpp
+        trees/largest_bst_subtree.cpp
+        trees/find_bottom_lft_val.cpp
+        trees/large_val_ech_rw.cpp
         linked_list/merge_in_between.cpp
         strings/find_replace_pattern.cpp linked_list/add_two_nums.cpp
         hash_map/word_subset.cpp
@@ -46,6 +56,9 @@ add_executable(data_structures
         graphs/all_ancestor.cpp
         dp/uniq_paths.cpp play.cpp
         linked_list/swap_ndes.cpp
+        linked_list/ListNode.h
+        linked_list/remove_duplicates_2.cpp
+        linked_list/remove_zero_sum_nodes.cpp
         dp/pascal's_triangle.cpp
         dp/count_bits.cpp
         dp/lcs.cpp
