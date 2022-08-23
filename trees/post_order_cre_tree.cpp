@@ -34,7 +34,7 @@ int treeDiameter(vvi &ed) {
   return dis-1;
 }
 
-int main(){
+int maisgn(){
   vvi v{{0,1},{1,2},{0,3},{3,4},{2,5},{3,6}};
   treeDiameter(v);
 }

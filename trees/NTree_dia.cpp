@@ -20,7 +20,7 @@ int calc(vvi &tr, int nd, int &d, usi &visit) {
   return m1;
 }
 
-int treeDiameter(vvi &ed) {
+int treeDiametersd(vvi &ed) {
   vvi tre(ed.size()+1);
   usi v(ed.size()+1);
   for (auto &i: ed) {

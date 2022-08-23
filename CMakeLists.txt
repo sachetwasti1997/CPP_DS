@@ -54,6 +54,11 @@ add_executable(data_structures
         graphs/crt_binary_tree.cpp
         graphs/maximum_total_importance.cpp
         graphs/all_ancestor.cpp
+        graphs/evaluate_division.cpp
+        graphs/the_maze_II.cpp
+        graphs/loud_and_rich_n_sq.cpp
+        graphs/loud_and_rich_linear.cpp
+        graphs/sh_path_alter_color.cpp
         dp/uniq_paths.cpp play.cpp
         linked_list/swap_ndes.cpp
         linked_list/ListNode.h

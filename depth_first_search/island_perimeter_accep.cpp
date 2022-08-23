@@ -4,7 +4,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int islandPerimeter(vector<vector<int>>& grid) {
+int islandPerimeterwe(vector<vector<int>>& grid) {
   int R = grid.size(), C = grid[0].size();
   int result = 0;
   for (int i=0; i<R; i++) {
